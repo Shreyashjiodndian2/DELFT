@@ -19,4 +19,4 @@ The experiments include DELFT-Bert and DELFT-Glove , with different embeddings (
 
 
 ## Contact
-If you have questions, suggestions and bug reports, please email chenz@cs.umd.edu.
+If you have questions, suggestions and bug reports, please email chenz@cs.umd.edu.# DELFT
